@@ -2,11 +2,11 @@
 
 </h2>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi 👋, I'm K Nithyanandan Hope you Find Me..</h1>
 
 ###
-
-<p align="left">I'm K Nithyanandan... and I'm a FullStack Developer and i'm interested in learning new technologies and Working on Robotics .., from Bangalore</p>
+<p align="left">I'm a FullStack Developer, interested in learning new technologies and Working on Robotics.
+I'm a passionate Computer Science Engineering student from Bangalore, India, dedicated to creating innovative solutions and continuously expanding knowledge in the field of technology.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨Learning and creating Full-fledged Web Applications...<br>📚 I'm a Freelancer ...<br>🎯 Goals: Help people to learn in public(open-source) and build a Network<br></p>
 
 ###
 
