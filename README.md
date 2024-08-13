@@ -1,8 +1,12 @@
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
+
+</h2>
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is K Nithyanandan... and I'm a FullStack Developer and i'm interested in learning new technologies and Working on Robotics .., from Bangalore</p>
+<p align="left">I'm K Nithyanandan... and I'm a FullStack Developer and i'm interested in learning new technologies and Working on Robotics .., from Bangalore</p>
 
 ###
 
